@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий](https://up.htmlacademy.ru/javascript/20/user/1461347).
-* Наставник: `Дмитрий Гуляев`.
+* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/id87930).
 
 ---
 
